@@ -12,4 +12,13 @@
 	🚧  Em construção...  🚧
 </h4>
 
+ <h4 align="center"> 
+	🛠 Tecnologias
+</h4>
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- JavaScript
+- Html 5
+- CSS3
+
 ![](https://github.com/eduardonk9999/Rolling-The-Dice/blob/master/capa.png "Logo Title Text 1")
