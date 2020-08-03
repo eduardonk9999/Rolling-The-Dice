@@ -7,3 +7,9 @@
 <br/>
 <a href="https://www.udemy.com/course/the-complete-javascript-course/" target="_blank">The Complete JavaScript Course 2020: Build Real Projects!</a>
  </p>
+
+ <h4 align="center"> 
+	🚧  Em construção...  🚧
+</h4>
+
+![](https://github.com/eduardonk9999/Rolling-The-Dice/blob/master/capa.png "Logo Title Text 1")
