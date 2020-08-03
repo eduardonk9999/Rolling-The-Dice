@@ -12,7 +12,7 @@
 	🚧  Em construção...  🚧
 </h4>
 
- <h4 align="center"> 
+ <h4> 
 	🛠 Tecnologias
 </h4>
 As seguintes ferramentas foram usadas na construção do projeto:
